@@ -4,7 +4,7 @@
 
 ## other accounts
 * [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) translated 20+ pages
-* [Qiita @eltociear](https://qiita.com/eltociear) posted 40+ docs
+* [Qiita @eltociear](https://qiita.com/eltociear) posted 4+ docs
 
 <!--
 **eltociear/eltociear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
