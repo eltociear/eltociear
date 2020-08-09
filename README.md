@@ -2,7 +2,11 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&count_private=true&theme=merko&show_icons=true&count_private=true)
 
-## other accounts
+## Uses
+- 🔭 I’m currently working on CakePHP / jQuery / CSS / MySQL
+- 🌱 I’m currently learning Laravel / Vue.JS / Sass / Cloud Firestore / Firebase
+
+## Other accounts
 * [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) translated 32 pages
 * [Qiita @eltociear](https://qiita.com/eltociear) posted 45+ docs
 
