@@ -4,7 +4,7 @@
 
 ## Uses
 - 🔭 I’m currently working on CakePHP / jQuery / CSS / MySQL
-- 🌱 I’m currently learning Laravel / Vue.JS / Sass / Cloud Firestore / Firebase
+- 🌱 I’m currently learning Laravel / Vue.js / Sass / Cloud Firestore / Firebase
 
 ## Other accounts
 * [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) translated 34 pages
