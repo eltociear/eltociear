@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Laravel / Vue.js / Sass / Cloud Firestore / Firebase
 
 ## Other accounts
-* [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) translated 34 pages
+* [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) translated 38 pages
 * [Qiita @eltociear](https://qiita.com/eltociear) posted 45+ docs
 
 <!--
