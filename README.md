@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning Laravel / Vue.js / Sass / Cloud Firestore / Firebase
 
 ## Other accounts
-* [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) translated 40+ pages
-* [Qiita @eltociear](https://qiita.com/eltociear) posted 45+ docs
+* [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) translated 51 pages
+* [Qiita @eltociear](https://qiita.com/eltociear) posted 45 docs
 
 <!--
 **eltociear/eltociear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
