@@ -1,4 +1,4 @@
-### Hi there 🎆
+### Hi there 🌄
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true)
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Laravel / Vue.js / Sass / Cloud Firestore / Firebase
 
 ## Other accounts
-* [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) translated 53 pages
+* [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) translated 54 pages
 * [Qiita @eltociear](https://qiita.com/eltociear) posted 45 docs
 
 <!--
