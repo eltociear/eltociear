@@ -1,4 +1,4 @@
-### Hi there 🌄
+### Hi there ☕
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true)
 
@@ -6,9 +6,12 @@
 - 🔭 I’m currently working on CakePHP / jQuery / CSS / MySQL
 - 🌱 I’m currently learning Laravel / Vue.js / Sass / Cloud Firestore / Firebase
 
+## Qiita
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/eltociear/posts.svg)](http://qiita.com/eltociear)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/eltociear/contributions.svg)](http://qiita.com/eltociear)
+
 ## Other accounts
 * [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) translated 70+ pages
-* [Qiita @eltociear](https://qiita.com/eltociear) posted 45 docs
 
 <!--
 **eltociear/eltociear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
