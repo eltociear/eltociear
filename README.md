@@ -11,7 +11,7 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/eltociear/contributions.svg)](http://qiita.com/eltociear)
 
 ## Other accounts
-* [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) translated 70+ pages
+* [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) translated 80+ pages
 
 <!--
 **eltociear/eltociear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
