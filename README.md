@@ -2,6 +2,8 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=eltociear.readme)
+
 ## Uses
 - 🔭 I’m currently working on CakePHP / jQuery / CSS / MySQL
 - 🌱 I’m currently learning Laravel / Vue.js / Sass / Cloud Firestore / Firebase
