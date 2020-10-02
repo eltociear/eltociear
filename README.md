@@ -5,7 +5,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=eltociear.readme)
 
 ## Uses
-- 🔭 I’m currently working on CakePHP / jQuery / CSS / MySQL
+- 🔭 I’m currently working on CakePHP / jQuery / CSS / MySQL / PostgreSQL / Docker
 - 🌱 I’m currently learning Laravel / Vue.js / Sass / Cloud Firestore / Firebase
 
 ## Qiita
