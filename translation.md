@@ -1,0 +1,6 @@
+# Achievements in translation
+
+|  Repository |  Files  |  PR  |
+| ---- | ---- | ---- |
+|  [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)  |  CONTRIBUTING.ja.md  |  [#694](https://github.com/chrislgarry/Apollo-11/pull/694)  |
+|  [huggingface/transformers](https://github.com/huggingface/transformers)  |  README_ja.md  |  [#19945](https://github.com/huggingface/transformers/pull/19945)  |
