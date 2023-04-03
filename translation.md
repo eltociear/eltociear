@@ -8,4 +8,5 @@
 |  [gojue/ecapture](https://github.com/gojue/ecapture/)  |  README_JA.md  |  [#324](https://github.com/gojue/ecapture/pull/324)  |
 |  [huggingface/transformers](https://github.com/huggingface/transformers)  |  README_ja.md  |  [#19945](https://github.com/huggingface/transformers/pull/19945)  |
 |  [Infisical/infisical](https://github.com/Infisical/infisical/)  |  i18n/README.ja.md  |  [#399](https://github.com/Infisical/infisical/pull/399)  |
+|  [One-Language/One](https://github.com/One-Language/One/)  |  README_JA.md  |  [#359](https://github.com/One-Language/One/pull/359)  |
 |  [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin/)  |  Resources/AVR_Miner_langs.json<br>Resources/CLI_Wallet_langs.json<br>Resources/PC_Miner_langs.json<br>Resources/README_TRANSLATIONS/README_ja_JP.md<br>Resources/Wallet_langs.json  |  [#1563](https://github.com/revoxhere/duino-coin/pull/1563)  |
