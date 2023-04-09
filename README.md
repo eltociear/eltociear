@@ -10,6 +10,9 @@
 - 🔭 I’m currently working on CakePHP / jQuery / CSS / MySQL / PostgreSQL / Redis / Cloud Spanner / Apache / Docker
 - 🌱 I’m currently learning Laravel / Vue.js / Nuxt.js / TypeScript / Sass / Nginx / Cloud Firestore / Firebase
 
+## Translation
+-> [here](translation.md)
+
 ## Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/eltociear/posts.svg)](http://qiita.com/eltociear)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/eltociear/contributions.svg)](http://qiita.com/eltociear)
