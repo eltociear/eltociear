@@ -1,4 +1,4 @@
-# Achievements in translation
+# 翻訳追加したリスト
 
 |  Repository |  Files  |  PR  |
 | ---- | ---- | ---- |
@@ -17,6 +17,7 @@
 |  [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle/)  |  README_ja.md  |  [#53726](https://github.com/PaddlePaddle/Paddle/pull/53726)  |
 |  [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin/)  |  Resources/AVR_Miner_langs.json<br>Resources/CLI_Wallet_langs.json<br>Resources/PC_Miner_langs.json<br>Resources/README_TRANSLATIONS/README_ja_JP.md<br>Resources/Wallet_langs.json  |  [#1563](https://github.com/revoxhere/duino-coin/pull/1563)  |
 |  [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole/)  |  README.JA.md  |  [#410](https://github.com/Sangwan5688/BlackHole/pull/410)  |
+|  [sunner/ChatALL](https://github.com/sunner/ChatALL/)  |  README_JA-JP.md  |  [#50](https://github.com/sunner/ChatALL/pull/50)  |
 |  [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi/)  |  docs/README-ja.md  |  [#176](https://github.com/yoheinakajima/babyagi/pull/176)  |
 |  [zadam/trilium](https://github.com/zadam/trilium/)  |  README.ja.md  |  [#3771](https://github.com/zadam/trilium/pull/3771)  |
 |  [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org/)  |  content/_index.ja.md<br>content/download/_index.ja.md<br>content/learn/_index.ja.md<br>content/learn/getting-started.ja.md<br>content/learn/overview.ja.md<br>content/learn/samples.ja.md<br>content/learn/tools.ja.md<br>content/learn/why_zig_rust_d_cpp.ja.md<br>content/news/_index.ja.md<br>themes/ziglang-original/i18n/ja.toml<br>themes/ziglang-original/i18n/ja.toml  |  [#212](https://github.com/ziglang/www.ziglang.org/pull/212)  |
