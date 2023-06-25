@@ -4,6 +4,7 @@
 | ---- | ---- | ---- |
 |  [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT/)  |  docs/README_ja.md  |  [#1344](https://github.com/acheong08/ChatGPT/pull/1344)  |
 |  [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT/)  |  docs/README_ja.md  |  [#318](https://github.com/acheong08/EdgeGPT/pull/318)  |
+|  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
 |  [chathub-dev/chathub](https://github.com/chathub-dev/chathub/)  |  README_JA.md  |  [#263](https://github.com/chathub-dev/chathub/pull/263)  |
 |  [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)  |  CONTRIBUTING.ja.md  |  [#694](https://github.com/chrislgarry/Apollo-11/pull/694)  |
 |  [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor/)  |  CONTRIBUTING_ja-JP.md<br>DONATE_ja-JP.md<br>README_ja-JP.md  |  [#1144](https://github.com/cpeditor/cpeditor/pull/1144)  |
