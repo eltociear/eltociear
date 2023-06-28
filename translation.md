@@ -13,6 +13,7 @@
 |  [gojue/ecapture](https://github.com/gojue/ecapture/)  |  README_JA.md  |  [#324](https://github.com/gojue/ecapture/pull/324)  |
 |  [huggingface/transformers](https://github.com/huggingface/transformers)  |  README_ja.md  |  [#19945](https://github.com/huggingface/transformers/pull/19945)  |
 |  [Infisical/infisical](https://github.com/Infisical/infisical/)  |  i18n/README.ja.md  |  [#399](https://github.com/Infisical/infisical/pull/399)  |
+|  [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner/)  |  README_JA.md  |  [#100](https://github.com/josStorer/RWKV-Runner/pull/100)  |
 |  [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt/)  |  README_JA.md  |  [#3](https://github.com/jtsang4/claude-to-chatgpt/pull/3)  |
 |  [langgenius/dify](https://github.com/langgenius/dify/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#96](https://github.com/langgenius/dify/pull/96)  |
 |  [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney/)  |  README_JA.md  |  [#23](https://github.com/Licoy/ChatGPT-Midjourney/pull/23)  |
