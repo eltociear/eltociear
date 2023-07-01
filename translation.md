@@ -6,12 +6,13 @@
 |  [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT/)  |  docs/README_ja.md  |  [#318](https://github.com/acheong08/EdgeGPT/pull/318)  |
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
 |  [chathub-dev/chathub](https://github.com/chathub-dev/chathub/)  |  README_JA.md  |  [#263](https://github.com/chathub-dev/chathub/pull/263)  |
-|  [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)  |  CONTRIBUTING.ja.md  |  [#694](https://github.com/chrislgarry/Apollo-11/pull/694)  |
+|  [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11/)  |  CONTRIBUTING.ja.md  |  [#694](https://github.com/chrislgarry/Apollo-11/pull/694)  |
 |  [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor/)  |  CONTRIBUTING_ja-JP.md<br>DONATE_ja-JP.md<br>README_ja-JP.md  |  [#1144](https://github.com/cpeditor/cpeditor/pull/1144)  |
 |  [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/)  |  README_JA.md  |  [#44](https://github.com/dmMaze/BallonsTranslator/pull/44)  |
+|  [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly/)  |  README.ja-JP.md  |  [#1494](https://github.com/dragonflydb/dragonfly/pull/1494)  |
 |  [Eugeny/tabby](https://github.com/Eugeny/tabby/)  |  README.ja-JP.md  |  [#6894](https://github.com/Eugeny/tabby/pull/6894)  |
 |  [gojue/ecapture](https://github.com/gojue/ecapture/)  |  README_JA.md  |  [#324](https://github.com/gojue/ecapture/pull/324)  |
-|  [huggingface/transformers](https://github.com/huggingface/transformers)  |  README_ja.md  |  [#19945](https://github.com/huggingface/transformers/pull/19945)  |
+|  [huggingface/transformers](https://github.com/huggingface/transformers/)  |  README_ja.md  |  [#19945](https://github.com/huggingface/transformers/pull/19945)  |
 |  [Infisical/infisical](https://github.com/Infisical/infisical/)  |  i18n/README.ja.md  |  [#399](https://github.com/Infisical/infisical/pull/399)  |
 |  [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner/)  |  README_JA.md  |  [#100](https://github.com/josStorer/RWKV-Runner/pull/100)  |
 |  [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt/)  |  README_JA.md  |  [#3](https://github.com/jtsang4/claude-to-chatgpt/pull/3)  |
