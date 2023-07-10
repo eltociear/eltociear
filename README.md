@@ -25,6 +25,9 @@
 I'm member of MZDAO.
 [Join now](https://www.mzdao.jp/ff.html?c=ay4g9p)!
 
+## Donate
+ETH: 0x9bd9f9e4b051ab0346efc3d740193096fdcb7d49
+
 <!--
 **eltociear/eltociear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
