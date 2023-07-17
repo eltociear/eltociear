@@ -21,6 +21,7 @@
 |  [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt/)  |  README_JA.md  |  [#3](https://github.com/jtsang4/claude-to-chatgpt/pull/3)  |
 |  [langgenius/dify](https://github.com/langgenius/dify/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#96](https://github.com/langgenius/dify/pull/96)  |
 |  [LeKovr/webtail](https://github.com/LeKovr/webtail/)  |  README.ja.md  |  [#17](https://github.com/LeKovr/webtail/pull/17)  |
+|  [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy/)  |  readmes/README.ja.md  |  [#3620](https://github.com/LemmyNet/lemmy/pull/3620)  |
 |  [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney/)  |  README_JA.md  |  [#23](https://github.com/Licoy/ChatGPT-Midjourney/pull/23)  |
 |  [linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai/)  |  README_JA.md  |  [#7](https://github.com/linyiLYi/snake-ai/pull/7)  |
 |  [okisdev/ChatChat](https://github.com/okisdev/ChatChat/)  |  README.JA.mdx  |  [#46](https://github.com/okisdev/ChatChat/pull/46)  |
