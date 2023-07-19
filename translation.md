@@ -33,7 +33,7 @@
 |  [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole/)  |  README.JA.md  |  [#410](https://github.com/Sangwan5688/BlackHole/pull/410)  |
 |  [sunner/ChatALL](https://github.com/sunner/ChatALL/)  |  README_JA-JP.md  |  [#50](https://github.com/sunner/ChatALL/pull/50)  |
 |  [tonsky/FiraCode](https://github.com/tonsky/FiraCode/)  |  README_JA.md  |  [#1537](https://github.com/tonsky/FiraCode/pull/1537)  |
-|  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)  |
+|  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
 |  [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts/)  |  README_ja.md  |  [#54](https://github.com/xiangsx/gpt4free-ts/pull/54)  |
 |  [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi/)  |  docs/README-ja.md  |  [#176](https://github.com/yoheinakajima/babyagi/pull/176)  |
 |  [zadam/trilium](https://github.com/zadam/trilium/)  |  README.ja.md  |  [#3771](https://github.com/zadam/trilium/pull/3771)  |
