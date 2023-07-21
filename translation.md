@@ -3,6 +3,7 @@
 |  Repository |  Files  |  PR  |
 | ---- | ---- | ---- |
 |  [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT/)  |  docs/README_ja.md  |  [#1344](https://github.com/acheong08/ChatGPT/pull/1344)  |
+|  [acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API/)  |  README_JAmd  |  [#93](https://github.com/acheong08/ChatGPT-to-API/pull/93)  |
 |  [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT/)  |  docs/README_ja.md  |  [#318](https://github.com/acheong08/EdgeGPT/pull/318)  |
 |  [alist-org/alist](https://github.com/alist-org/alist/)  |  README_ja.md  |  [#4798](https://github.com/alist-org/alist/pull/4798)  |
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
