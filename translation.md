@@ -26,6 +26,7 @@
 |  [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy/)  |  readmes/README.ja.md  |  [#3620](https://github.com/LemmyNet/lemmy/pull/3620)  |
 |  [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney/)  |  README_JA.md  |  [#23](https://github.com/Licoy/ChatGPT-Midjourney/pull/23)  |
 |  [linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai/)  |  README_JA.md  |  [#7](https://github.com/linyiLYi/snake-ai/pull/7)  |
+|  [modelscope/modelscope](https://github.com/modelscope/modelscope/)  |  README_ja.md  |  [#405](https://github.com/modelscope/modelscope/pull/405)  |
 |  [okisdev/ChatChat](https://github.com/okisdev/ChatChat/)  |  README.JA.mdx  |  [#46](https://github.com/okisdev/ChatChat/pull/46)  |
 |  [One-Language/One](https://github.com/One-Language/One/)  |  README_JA.md  |  [#359](https://github.com/One-Language/One/pull/359)  |
 |  [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle/)  |  README_ja.md  |  [#53726](https://github.com/PaddlePaddle/Paddle/pull/53726)  |
