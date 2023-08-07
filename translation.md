@@ -1,6 +1,6 @@
 # 翻訳追加したリスト
 
-|  Repository |  Files  |  PR  |
+|  Repository |  Files  |  PRs  |
 | ---- | ---- | ---- |
 |  [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT/)  |  docs/README_ja.md  |  [#1344](https://github.com/acheong08/ChatGPT/pull/1344)  |
 |  [acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API/)  |  README_JAmd  |  [#93](https://github.com/acheong08/ChatGPT-to-API/pull/93)  |
@@ -21,6 +21,7 @@
 |  [InternLM/InternLM](https://github.com/InternLM/InternLM/)  |  README-ja-JP.md  |  [#43](https://github.com/InternLM/InternLM/pull/43)  |
 |  [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner/)  |  README_JA.md  |  [#100](https://github.com/josStorer/RWKV-Runner/pull/100)  |
 |  [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt/)  |  README_JA.md  |  [#3](https://github.com/jtsang4/claude-to-chatgpt/pull/3)  |
+|  [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT/)  |  docs/README_JA.md  |  [#31](https://github.com/kuafuai/DevOpsGPT/pull/31)  |
 |  [langgenius/dify](https://github.com/langgenius/dify/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#96](https://github.com/langgenius/dify/pull/96)  |
 |  [LeKovr/webtail](https://github.com/LeKovr/webtail/)  |  README.ja.md  |  [#17](https://github.com/LeKovr/webtail/pull/17)  |
 |  [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy/)  |  readmes/README.ja.md  |  [#3620](https://github.com/LemmyNet/lemmy/pull/3620)  |
