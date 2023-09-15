@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Laravel / Vue.js / Nuxt.js / TypeScript / Sass / Nginx / Cloud Firestore / Firebase
 
 ## Translation
--> [here](https://github.com/eltociear/translations/blob/master/addition_files.md)
+-> [here](https://github.com/eltociear/translations/blob/main/README.md)
 
 ## Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/eltociear/posts.svg)](http://qiita.com/eltociear)
