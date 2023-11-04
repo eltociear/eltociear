@@ -2,7 +2,8 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=eltociear.readme)
+![](https://visitor-badge.laobi.icu/badge?page_id=eltociear.readme) | [![](https://ossrank.com/widget/106933)](https://ossrank.com/c/106933)
+
 
 [![@eltociear's Holopin board](https://holopin.me/eltociear)](https://holopin.io/@eltociear)
 
