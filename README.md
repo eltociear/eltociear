@@ -8,8 +8,9 @@
 [![@eltociear's Holopin board](https://holopin.me/eltociear)](https://holopin.io/@eltociear)
 
 ## Uses
-- 🔭 I’m currently working on CakePHP / jQuery / CSS / MySQL / PostgreSQL / Redis / Cloud Spanner / Apache / Docker
-- 🌱 I’m currently learning Laravel / Vue.js / Nuxt.js / TypeScript / Sass / Nginx / Cloud Firestore / Firebase
+- 🔭 I’m currently working on PHP, jQuery, MySQL, Apache, Docker
+- 🌱 I’m currently learning Python, TypeScript, Sass, Nginx, Cloud Firestore, Firebase
+- Previous experience: Go, C#, VB.NET, CakePHP, Laravel, Vue.js, Nuxt.js, SQLServer, Redis, Cloud Spanner, PostgreSQL, CSS
 
 ## Translation
 -> [here](https://github.com/eltociear/translations/blob/main/README.md)
