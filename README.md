@@ -23,10 +23,6 @@
 * [DEV @eltociear](https://dev.to/eltociear)
 * [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) -> translated 117 pages
 
-## DAO
-I'm member of MZDAO.
-[Join now](https://www.mzdao.jp/ff.html?c=ay4g9p)!
-
 ## Donate
 ETH: `-`
 
