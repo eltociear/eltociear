@@ -1,3 +1,6 @@
+*[私のデジタルクローン / My Digital Clone](https://altbrain.ai/chat?brainId=eyDf2HsPFr1fbjnlHXFY)*
+
+
 ### 想像できない明日を、創造できる明日を 🌸
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true)
