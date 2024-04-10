@@ -1,4 +1,4 @@
-*[私のデジタルクローン / My Digital Clone - alt BRAIN](https://altbrain.ai/chat?brainId=eyDf2HsPFr1fbjnlHXFY)*
+*[My Digital Clone / 私のデジタルクローン - alt BRAIN](https://altbrain.ai/chat?brainId=eyDf2HsPFr1fbjnlHXFY)*
 
 
 ### 想像できない明日を、創造できる明日を 🌸
