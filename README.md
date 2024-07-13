@@ -1,4 +1,4 @@
-*[Full invitation-only deal acquisition platform / 完全招待型の案件獲得プラットフォーム](https://wavee.world/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)*
+*[Full invitation-only deal acquisition platform / 完全招待型の案件獲得プラットフォーム - WAVEE](https://wavee.world/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)*
 
 *[My Digital Clone / 私のデジタルクローン - alt BRAIN](https://altbrain.ai/chat?brainId=eyDf2HsPFr1fbjnlHXFY)*
 
