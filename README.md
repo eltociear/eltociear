@@ -1,6 +1,6 @@
-*[Full invitation-only deal acquisition platform / 完全招待型の案件獲得プラットフォーム - WAVEE](https://wavee.world/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)*
+<h2><a href="https://wavee.world/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd"><b>Looking for a new job? Try this newest platform!<br>完全招待型の案件獲得プラットフォーム - WAVEE</b></a></h2><br>
 
-*[My Digital Clone / 私のデジタルクローン - alt BRAIN](https://altbrain.ai/chat?brainId=eyDf2HsPFr1fbjnlHXFY)*
+<!-- *[My Digital Clone / 私のデジタルクローン - alt BRAIN](https://altbrain.ai/chat?brainId=eyDf2HsPFr1fbjnlHXFY)*　-->
 
 
 ### 想像できない明日を、創造できる明日を ☔️
@@ -27,11 +27,12 @@
 ## Other accounts
 * [DEV @eltociear](https://dev.to/eltociear)
 * [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) -> translated 117 pages
+* [OpenSea eltociear](https://opensea.io/eltociear)
 
+<!--
 ## Donate
 ETH: `-`
 
-<!--
 **eltociear/eltociear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
