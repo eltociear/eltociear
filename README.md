@@ -13,9 +13,9 @@
 [![@eltociear's Holopin board](https://holopin.me/eltociear)](https://holopin.io/@eltociear)
 
 ## Uses
-- 🔭 I’m currently working: PHP, jQuery, MySQL, Apache, Docker, AWS
-- 🌱 I’m currently learning: Python, TypeScript, Sass, Nginx, Cloud Firestore, Firebase
-- Previous experience: Go, C#, VB.NET, CakePHP, Laravel, Vue.js, Nuxt.js, SQLServer, Redis, Cloud Spanner, PostgreSQL, CSS, GCP
+- 🔭 I’m currently working: Flutter, Python, PHP, JavaScript, jQuery, MySQL, Apache, Docker, AWS
+- 🌱 I’m currently learning: Sass, Nginx, Cloud Firestore, Firebase
+- Previous experience: Go, TypeScript, C#, VB.NET, CakePHP, Laravel, Vue.js, Nuxt.js, SQLServer, Redis, Cloud Spanner, PostgreSQL, CSS, GCP
 
 ## Translation
 -> [here](https://github.com/eltociear/translations/blob/main/README.md)
