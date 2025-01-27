@@ -8,6 +8,7 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=eltociear.readme)
+[<img src="https://api.gitsponsors.com/api/badge/img?id=283494105" height="20">](https://api.gitsponsors.com/api/badge/link?p=9bWgigQJEWhMypxDC8UMin5abblABm+N2MGsq4deWuHBhzO6tzRIhgOmaSiO5WU731Wtbsj0yBsuBfCL8m2qI6ossX7ik55fcyLOAKCvf8AAc7Vf1FT5vlv4Rf0NH0wV)
 
 
 [![@eltociear's Holopin board](https://holopin.me/eltociear)](https://holopin.io/@eltociear)
