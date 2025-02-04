@@ -18,6 +18,11 @@
 - 🌱 I’m currently learning: Sass, Nginx, Cloud Firestore, Firebase
 - Previous experience: Go, TypeScript, C#, VB.NET, CakePHP, Laravel, Vue.js, Nuxt.js, SQLServer, Redis, Cloud Spanner, PostgreSQL, CSS, GCP
 
+## Awesome Lists
+- [awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development)
+- [awesome-ai-agent](https://github.com/eltociear/awesome-ai-agent)
+- [awesome-AI_web3](https://github.com/eltociear/awesome-AI_web3)
+
 ## Translation
 -> [here](https://github.com/eltociear/translations/blob/main/README.md)
 
@@ -26,9 +31,9 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/eltociear/contributions.svg)](http://qiita.com/eltociear)
 
 ## Other accounts
-* [DEV @eltociear](https://dev.to/eltociear)
-* [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) -> translated 117 pages
-* [OpenSea eltociear](https://opensea.io/eltociear)
+- [DEV @eltociear](https://dev.to/eltociear)
+- [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) -> translated 117 pages
+- [OpenSea eltociear](https://opensea.io/eltociear)
 
 <!--
 ## Donate
