@@ -22,6 +22,7 @@
 - [awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development)
 - [awesome-ai-agent](https://github.com/eltociear/awesome-ai-agent)
 - [awesome-AI_web3](https://github.com/eltociear/awesome-AI_web3)
+- [awesome-DePIN](https://github.com/eltociear/awesome-DePIN)
 
 ## Translation
 -> [here](https://github.com/eltociear/translations/blob/main/README.md)
