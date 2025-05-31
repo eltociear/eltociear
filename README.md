@@ -1,5 +1,3 @@
-<h2><a href="https://wavee.world/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd"><b>Looking for a new job? Try this newest platform!<br>完全招待型の案件獲得プラットフォーム - WAVEE</b></a></h2><br>
-
 <!-- *[My Digital Clone / 私のデジタルクローン - alt BRAIN](https://altbrain.ai/chat?brainId=eyDf2HsPFr1fbjnlHXFY)*　-->
 
 
