@@ -1,12 +1,6 @@
-<!-- *[My Digital Clone / 私のデジタルクローン - alt BRAIN](https://altbrain.ai/chat?brainId=eyDf2HsPFr1fbjnlHXFY)*　-->
+### AIを活用できるエンジニアになりたい
 
-
-### 想像できない明日を、創造できる明日を 🗼🗼🗼🗼🗼
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=eltociear.readme)
-
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&theme=merko&show_icons=true&count_private=true&sanitize=true)
 
 [![@eltociear's Holopin board](https://holopin.me/eltociear)](https://holopin.io/@eltociear)
 
@@ -24,19 +18,14 @@
 ## Translation
 -> [here](https://github.com/eltociear/translations/blob/main/README.md)
 
-## Qiita
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/eltociear/posts.svg)](http://qiita.com/eltociear)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/eltociear/contributions.svg)](http://qiita.com/eltociear)
-
 ## Other accounts
 - [DEV @eltociear](https://dev.to/eltociear)
-- [MDN @eltociear](https://wiki.developer.mozilla.org/ja/profiles/eltociear) -> translated 117 pages
-- [OpenSea eltociear](https://opensea.io/eltociear)
+
+---
+
+![](https://visitor-badge.laobi.icu/badge?page_id=eltociear.readme)
 
 <!--
-## Donate
-ETH: `-`
-
 **eltociear/eltociear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
