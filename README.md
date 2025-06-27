@@ -1,8 +1,6 @@
-### AIを活用できるエンジニアになりたい🗼🗼🗼
+### AIを活用できるエンジニアになりたい🗼🗼🗼🗼
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&theme=merko&show_icons=true&count_private=true&sanitize=true)
-
-[![@eltociear's Holopin board](https://holopin.me/eltociear)](https://holopin.io/@eltociear)
 
 ## Uses
 - 🔭 I’m currently working: Flutter, Python, PHP, JavaScript, jQuery, MySQL, Apache, Docker, AWS
@@ -11,9 +9,6 @@
 
 ## Awesome Lists
 - [awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development)
-- [awesome-ai-agent](https://github.com/eltociear/awesome-ai-agent)
-- [awesome-AI_web3](https://github.com/eltociear/awesome-AI_web3)
-- [awesome-DePIN](https://github.com/eltociear/awesome-DePIN)
 
 ## Translation
 -> [here](https://github.com/eltociear/translations/blob/main/README.md)
