@@ -1,4 +1,4 @@
-### AI駆動開発🚄🚄🚄
+### AI駆動開発🚄🚄🚄🚄
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&theme=merko&show_icons=true&count_private=true&sanitize=true)
 
