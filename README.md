@@ -1,5 +1,5 @@
 
-[Wavee](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)
+[Join the new wave of communities → Wavee](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)
 
 
 ### AI駆動開発
