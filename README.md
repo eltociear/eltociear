@@ -2,7 +2,7 @@
 ## [Looking for a new job? Try this newest platform!<br>完全招待型の案件獲得プラットフォーム - WAVEE](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)
 
 
-### AI駆動開発❄️
+### ❄️
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&theme=merko&show_icons=true&count_private=true&sanitize=true)
 
