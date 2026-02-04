@@ -13,7 +13,7 @@
 
 ## Awesome Lists
 - [AI-Driven Development](https://github.com/eltociear/awesome-AI-driven-development) - AI駆動開発ツールのまとめ
-- [Molt Ecosystem](https://github.com/eltociear/awesome-molt-ecosystem) - AIエージェントMoltiesサービスのまとめ
+- [Molt Ecosystem](https://github.com/eltociear/awesome-molt-ecosystem) - AIエージェント向けの🦞 Moltエコシステム
 
 ## Translation
 -> [here](https://github.com/eltociear/translations/blob/main/README.md)
