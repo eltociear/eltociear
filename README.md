@@ -12,7 +12,8 @@
 - Previous experience: Go, TypeScript, C#, VB.NET, CakePHP, Laravel, Vue.js, Nuxt.js, SQLServer, Redis, Cloud Spanner, PostgreSQL, CSS, GCP
 
 ## Awesome Lists
-- [awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development)
+- [AI-Driven Development](https://github.com/eltociear/awesome-AI-driven-development) - AI駆動開発ツールのまとめ
+- [Molt Ecosystem](https://github.com/eltociear/awesome-molt-ecosystem) - AIエージェントMoltiesサービスのまとめ
 
 ## Translation
 -> [here](https://github.com/eltociear/translations/blob/main/README.md)
