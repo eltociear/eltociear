@@ -1,5 +1,7 @@
 
-## [Looking for a new job? Try this newest platform!<br>完全招待型の案件獲得プラットフォーム - WAVEE](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)
+### 🌊 Discover Your Next Adventure
+Explore premium tech opportunities on **WAVEE** — an exclusive, invite-only job platform.
+[Grab your invitation here! 🎟️](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)
 
 
 ### ⛩️⛩️
@@ -15,9 +17,10 @@
 - [AI-Driven Development](https://github.com/eltociear/awesome-AI-driven-development) - AI駆動開発ツールのまとめ
 - [Molt Ecosystem](https://github.com/eltociear/awesome-molt-ecosystem) - AIエージェント向けの🦞 Moltエコシステム
 
-## Translation
+## Translation Log
 -> [here](https://github.com/eltociear/translations/blob/main/README.md)
 
+<!--
 ## Other accounts
 - [DEV @eltociear](https://dev.to/eltociear)
 
