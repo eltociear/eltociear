@@ -20,16 +20,14 @@ Explore premium tech opportunities on **WAVEE** — an exclusive, invite-only jo
 ## Translation Log
 -> [here](https://github.com/eltociear/translations/blob/main/README.md)
 
+---
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=eltociear.readme)
 
 <!--
 ## Other accounts
 - [DEV @eltociear](https://dev.to/eltociear)
 
----
-
-
-<!--
 **eltociear/eltociear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
