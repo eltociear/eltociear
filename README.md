@@ -1,7 +1,7 @@
 
-### 🌊 Discover Your Next Adventure
-Explore premium tech opportunities on **WAVEE** — an exclusive, invite-only job platform.
-[Grab your invitation here! 🎟️](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)
+### 🌊 Ready for Something New?
+Explore top tech opportunities on WAVEE — a place to connect, build, and grow.
+[Get access 🎟️](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)
 
 
 ### ⛩️⛩️
