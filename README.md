@@ -1,7 +1,7 @@
 
 ### 🌊 Ready for Something New?
-Explore top tech opportunities on WAVEE — a place to connect, build, and grow.
-[Get access 🎟️](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)
+[Explore top tech opportunities on WAVEE — a place to connect, build, and grow.
+Get access 🎟️](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)
 
 
 ### 🦞🪙🦞🦞
