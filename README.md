@@ -8,10 +8,12 @@ Get access 🎟️](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&theme=merko&show_icons=true&count_private=true&sanitize=true)
 
+<!--
 ## Uses
 - 🔭 I’m currently working: Flutter, Python, PHP, JavaScript, jQuery, MySQL, Apache, Docker, AWS
 - 🌱 I’m currently learning: Sass, Nginx, Cloud Firestore, Firebase
 - Previous experience: Go, TypeScript, C#, VB.NET, CakePHP, Laravel, Vue.js, Nuxt.js, SQLServer, Redis, Cloud Spanner, PostgreSQL, CSS, GCP
+-->
 
 ## Awesome Lists
 - [AI-Driven Development](https://github.com/eltociear/awesome-AI-driven-development) - AI駆動開発ツールのまとめ
