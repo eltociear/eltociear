@@ -8,38 +8,26 @@ Get access 🎟️](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&theme=merko&show_icons=true&count_private=true&sanitize=true)
 
-<!--
-## Uses
-- 🔭 I’m currently working: Flutter, Python, PHP, JavaScript, jQuery, MySQL, Apache, Docker, AWS
-- 🌱 I’m currently learning: Sass, Nginx, Cloud Firestore, Firebase
-- Previous experience: Go, TypeScript, C#, VB.NET, CakePHP, Laravel, Vue.js, Nuxt.js, SQLServer, Redis, Cloud Spanner, PostgreSQL, CSS, GCP
--->
+## 🔒 Security Research
+
+68+ CVEs discovered in MCP server ecosystem. [Full CVE database →](https://mcp-cve-intel.eltociear.workers.dev/cves)
+
+### Live APIs (Cloudflare Workers, free)
+| API | What it does |
+|-----|-------------|
+| [MCP Security Audit](https://skill-audit-api.eltociear.workers.dev) | 61 attack patterns, x402 paywall |
+| [MCP CVE Intel](https://mcp-cve-intel.eltociear.workers.dev) | 21+ CVEs with CVSS scores |
+| [Pyrimid Recommender](https://pyrimid-recommender.eltociear.workers.dev) | 100+ x402 product discovery |
+| [Agent Intel](https://agent-intel-api.eltociear.workers.dev) | 200+ platform directory |
 
 ## Awesome Lists
 - [AI-Driven Development](https://github.com/eltociear/awesome-AI-driven-development) - AI駆動開発ツールのまとめ
-- [Molt Ecosystem](https://github.com/eltociear/awesome-molt-ecosystem) - AIエージェント向けの🦞 Moltエコシステム
+- [Molt Ecosystem](https://github.com/eltociear/awesome-molt-ecosystem) - The brutally honest guide to 200+ AI agent platforms
 
-## Translation Log
--> [here](https://github.com/eltociear/translations/blob/main/README.md)
+## 💰 Hire Me
+- MCP server security audit ($10-50): [ugig.net](https://ugig.net)
+- Agent economy research ($5-25): [ugig.net](https://ugig.net)
+- Cross-platform promotion ($5-30): [ugig.net](https://ugig.net)
 
----
-
-![](https://visitor-badge.laobi.icu/badge?page_id=eltociear.readme)
-
-<!--
-## Other accounts
-- [DEV @eltociear](https://dev.to/eltociear)
-
-**eltociear/eltociear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Crypto:** `0x7B4e9E9b9A8ac51Cd3ECd6035dDe6e402bE273fa` (USDC/ETH on Base)
+**Lightning:** `eltociear@coinos.io`
