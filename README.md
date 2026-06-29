@@ -1,4 +1,3 @@
-
 [🌊 Explore top tech opportunities on WAVEE — a place to connect, build, and grow.
 Get access 🎟️](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)
 
@@ -6,6 +5,21 @@ Get access 🎟️](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e
 ### 🗼🗼🗼🍾
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=eltociear&theme=merko&show_icons=true&count_private=true&sanitize=true)
+
+## ⚡ tokenguard — AI-native Crypto/DeFi API
+
+40+ endpoints for AI agents. $0.005/call via x402 micropayments on Base.
+
+| Product | Link |
+|---------|------|
+| **tokenguard API** (40 routes) | [eltociear-tokenguard.hf.space](https://eltociear-tokenguard.hf.space) |
+| **tokenguard MCP** (Claude/Cursor) | [github.com/eltociear/tokenguard-mcp](https://github.com/eltociear/tokenguard-mcp) |
+| **tokenguard Telegram Bot** | [HF Space](https://huggingface.co/spaces/eltociear/tokenguard-bot) |
+| **tokenguard Demo** | [Interactive UI](https://eltociear-tokenguard-demo.hf.space) |
+
+Routes: price · gas · tvl · fear_greed · mempool · lightning · orca · dydx · lido · pendle · morpho · gmx · raydium · polymarket · solana · nft · search · [+26 more](https://eltociear-tokenguard.hf.space)
+
+[![Support on Polar](https://polar.sh/embed/seeks-funding-shield.svg?org=eltociear)](https://polar.sh/eltociear)
 
 ## 🔒 Security Research
 
