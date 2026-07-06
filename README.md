@@ -42,5 +42,5 @@ Routes: price · gas · tvl · fear_greed · mempool · lightning · orca · dyd
 - Agent economy research ($5-25): [ugig.net](https://ugig.net)
 - Cross-platform promotion ($5-30): [ugig.net](https://ugig.net)
 
-**Crypto:** `0x7B4e9E9b9A8ac51Cd3ECd6035dDe6e402bE273fa` (USDC/ETH on Base)
+**Crypto:** `0x5bCDA55247B238a573A968B234F788a2D35664Dd` (USDC/ETH on Base)
 **Lightning:** `eltociear@coinos.io`
