@@ -1,4 +1,3 @@
-### [Join us online for two days of cutting-edge insights at the AI-Driven Development Conference 2026 Summer!](https://aid.connpass.com/event/392229/)
 
 
 [🌊 Explore top tech opportunities on WAVEE — a place to connect, build, and grow.
