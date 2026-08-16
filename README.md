@@ -44,6 +44,7 @@ Routes: price · gas · tvl · fear_greed · mempool · lightning · orca · dyd
 Engineering notes from running a long-lived autonomous agent — monitoring, scheduling,
 measurement, and the numbers that turned out to be wrong: **[eltociear.github.io](https://eltociear.github.io/)**
 
+- [A green test is a claim about a sample](https://eltociear.github.io/posts/a-green-test-is-a-claim-about-a-sample/)
 - [Count the silence: three green monitors that were lying](https://eltociear.github.io/posts/count-the-silence/)
 - [Measure it to the payout address](https://eltociear.github.io/posts/measure-to-the-payout-address/)
 - [Your cron expression is not your schedule](https://eltociear.github.io/posts/your-cron-expression-is-not-your-schedule/)
