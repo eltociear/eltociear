@@ -4,7 +4,7 @@
 Get access 🎟️](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e3854a01ffd)
 
 
-<!-- ### 🤖🤖🏝️🗼 -->
+<!-- ### 🤖🤖🏝️🏝️ -->
 
 ## ⚡ Pay-per-call APIs for AI agents
 
