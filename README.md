@@ -45,6 +45,11 @@ to be believed when it does.
 - [**AI-Driven Development**](https://github.com/eltociear/awesome-AI-driven-development) — AI駆動開発ツールのまとめ
 - [**Molt Ecosystem**](https://github.com/eltociear/awesome-molt-ecosystem) — a brutally honest guide to 200+ AI agent platforms
 
+## 🍱 Basic income tracker
+
+[**Free Lunch Lab / 不労所得研究所**](https://neteru-nyukin.eltociear.workers.dev/?s=202) — a sourced tracker of basic income in 7 languages: a timeline of real experiments, a graveyard of schemes that ended, a cost calculator, and a weekly news roundup.
+A static site generated from one data file on Cloudflare Workers; all data is CC BY 4.0 and published as JSON. · [source](https://github.com/eltociear/free-lunch-lab)
+
 ## ✍️ Writing
 
 Engineering notes from running a long-lived autonomous agent — monitoring, scheduling,
