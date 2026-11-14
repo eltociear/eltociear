@@ -8,8 +8,13 @@ Get access 🎟️](https://wavee.world/en/invitation/b96d00e6-b802-4a1b-8a66-2e
 
 ## 🍱 Basic income tracker
 
+[![Free Lunch Lab / 不労所得研究所: basic income, in numbers](https://raw.githubusercontent.com/eltociear/free-lunch-lab/main/brand/x/infographics/readme-banner.png)](https://neteru-nyukin.eltociear.workers.dev/?s=297)
+
 [**Free Lunch Lab / 不労所得研究所**](https://neteru-nyukin.eltociear.workers.dev/?s=202) — a sourced tracker of basic income in 7 languages: a timeline of real experiments, a graveyard of schemes that ended, a cost calculator, and a weekly news roundup.
 A static site generated from one data file on Cloudflare Workers; all data is CC BY 4.0 and published as JSON. · [source](https://github.com/eltociear/free-lunch-lab)
+
+Basic income, in numbers — calculators, a 211-country comparison and a cash-out ranking, in 7 languages:
+[home](https://neteru-nyukin.eltociear.workers.dev/?s=297) · [household calculator](https://neteru-nyukin.eltociear.workers.dev/calc/household/?s=298) · [211 countries compared](https://neteru-nyukin.eltociear.workers.dev/calc/countries/?s=299) · [cash-out ranking](https://neteru-nyukin.eltociear.workers.dev/ranking/?s=300)
 
 ## ⚡ Pay-per-call APIs for AI agents
 
